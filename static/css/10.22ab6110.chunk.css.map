@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/DragTable/index.less"],"names":[],"mappings":"AAAA,sBAEI,kBAAJ","file":"10.22ab6110.chunk.css","sourcesContent":["#dragTablePage {\n  .title {\n    margin-bottom: 10px;\n  }\n}\n\n@primary-color: #00a0e9;"]}
